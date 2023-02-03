@@ -1,6 +1,7 @@
 public boolean evenlySpaced(int a, int b, int c) {
 //solved with a sorting algo that i found online! 
-//I knew I needed them orderd for the solution I just did'nt knew how.
+//I knew I needed them orderd for the solution.
+//I just did'nt knew the how to write the algo.
   int temp;
 
     if (b < a) {
