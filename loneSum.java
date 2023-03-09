@@ -1,5 +1,5 @@
 public int loneSum(int a, int b, int c) {
-//from  Logic-2 > loneSum 
+//from  Logic-2 > loneSum  .. 
     if(a != b & b ==c) return a;
     if(a == b & a != c & c == b) return a;
     if(a ==c & b != c) return b;
